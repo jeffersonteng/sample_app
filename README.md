@@ -17,6 +17,9 @@ Things you may want to cover:
 
 * How to run the test suite
 
+* Run Guard to watch tests. Hit return to run all tests.
+`bundle exec guard`
+
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
